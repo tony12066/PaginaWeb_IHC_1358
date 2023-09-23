@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(6, 219, 242);
+    margin-left: 200px;
+    color: rgb(10, 5, 139);
+ }
+ ul{
+     position: absolute;
+     left: 0px;
+     list-style-type: none;
+ }
+ li {
+     background-color: rgb(255, 255, 255);
+     color: rgb(37, 26, 198);
+     margin-bottom: 10px;
+     padding: 7px;
+     border-right: 14px solid rgb(32, 10, 181);
+ }
+ .clases_color{
+    color: rgb(64, 107, 0);
+ }
+ #id1{
+    color: rgb(170, 12, 164);
+ }
+ input{
+    border-radius: 10px;
+    padding: 7px;
+ }
+ .btn-enviar{
+    background: rgb(8,237,242);
+    background: linear-gradient(180deg, rgba(8,237,242,1) 41%, rgba(8,237,242,1) 64%, rgba(0,9,255,1) 100%);
+    color: rgb(37, 26, 198);
+ }
+ .btn-reseteo{
+    background-color: rgb(255, 39, 39);
+    color: rgb(139, 2, 2);
+ }
+ .btn{
+    padding: 7px;
+    border-radius: 10px;
+    border: 0px;
+ }
